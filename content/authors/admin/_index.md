@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a PhD candidate at University of Pittsburgh, under the supervision of Ivan Yotov. 
+I am currently a PhD candidate at University of Pittsburgh in the Department of Mathematics, under the supervision of Ivan Yotov. 
 
 My research interests are in the numerical analysis and solution of partial differential equations (PDEs) with an emphasis on the development, theoretical analysis and computer implementation of numerical methods to approximate solutions of PDEs. In particular, I work on mixed finite element methods (MFEM), which form a special class of finite element methods (FEM) that approximate simultaneously several physical variables of interest. My research has been on the study of MFEM for the coupled problem arising in the interaction between free fluid flow and flow in deformable poroelastic medium, referred to as fluid-poroelastic structure interaction (FPSI). 
