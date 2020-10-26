@@ -1,7 +1,7 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- admin
+title: "Non-Newtonian and poroelastic effects in simulations of arterial flows"
+authors: "Tongtong Li, Xing Wang, Ivan Yotov"
+# - admin
 date: ""
 doi: ""
 
@@ -18,10 +18,11 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we focus on investigating the influence on hydrodynamic factors of different coupled computational models describing the interaction between an incompressible fluid and two symmetric elastic or poroelastic structures. The fluid region is governed by time dependent Navier-Stokes equations; while for the structure region, we employ two different types of fully dynamic models to study the effects of elasticity and poroelasticity. It is known that blood flow shows a non- Newtonian property in small vessels and in situations of complex geometries. On one hand, we perform numerical experiments for blood flow using the Carreau-Yasuda model to simulate the viscosity and study the influence of non-Newtonian blood rheology as well as the poroelasticity on a benchmark vessel, by means of comparing computational results with models with Newtonian fluids or elastic structures. On the other hand, we present a two-dimensional simulation of blood flow in an axisymmetric stenosis artery, considering not only the non-Newtonian fluids properties but also the fluid-structure interaction. The results of this study demonstrate that the flow characteristics, including velocity and pressure fields, wall shear stress, relative residence time, displacement and filtration velocity, are affected by different models, geometries and parameters, such as permeability and Lam ́e coefficients.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -51,16 +52,16 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+# slides: example
+# ---
 
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
