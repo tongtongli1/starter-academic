@@ -1,6 +1,6 @@
 ---
 title: "Non-Newtonian and poroelastic effects in simulations of arterial flows"
-authors: "Tongtong Li, Xing Wang, Ivan Yotov"
+authors: Tongtong Li, Xing Wang, Ivan Yotov
 # - admin
 date: ""
 doi: ""
