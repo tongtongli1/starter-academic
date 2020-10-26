@@ -11,7 +11,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Pittsburgh
-  url: ""
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -55,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: files/cv.pdf
+   link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
