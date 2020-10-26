@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Finite Volumes for Complex Applications IX*
+publication_short: In *FVCA 2020*
 
 abstract: We develop a cell-centered finite volume method for the Navier–Stokes/Biot model, based on a fully mixed formulation with weakly symmetric stresses. The multipoint stress mixed finite element method is employed for the Navier–Stokes and elasticity equations, while the multipoint flux mixed finite element method is used for Darcy’s flow. These methods allow for local elimination of the fluid and poroelastic stresses, vorticity, and rotation, resulting in a positive definite finite volume scheme for the fluid and structure velocities and the Darcy pressure, coupled via Lagrange multipliers on the interface to impose the transmission conditions.
 
