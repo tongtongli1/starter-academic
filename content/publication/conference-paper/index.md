@@ -25,9 +25,9 @@ abstract: We develop a cell-centered finite volume method for the Navier–Stoke
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: true
+# tags:
+# - Source Themes
+# featured: true
 
 links:
 #- name: Custom Link
