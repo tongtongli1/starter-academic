@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Presentations"
 subtitle = ""
 
 # Date format
@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Finite Volumes for Complex Applications IX"
+  organization_url = "http://inspire.norceresearch.no/fvca9/-overview"
+  title = "A cell-centered finite volume method for the Navier-Stokes/Biot model"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = ""
+  date_start = "2020-06-15"
+  date_end = "2020-06-19"
+  description = "Bergen, Norway (held online)"
 
 [[item]]
   organization = "edX"
