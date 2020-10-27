@@ -18,6 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+```toml
 [[item]]
   organization = "Finite Volumes for Complex Applications IX, Bergen, Norway (held online)"
   organization_url = "http://inspire.norceresearch.no/fvca9/-overview"
@@ -27,7 +28,9 @@ date_format = "Jan 2006"
   date_start = "2020-06-15"
   date_end = ""
   description = ""
+```
 
+```toml
 [[item]]
   organization = "Finite Element Circus, Virginia Tech"
   organization_url = "https://sites.google.com/view/fecircus"
@@ -37,7 +40,9 @@ date_format = "Jan 2006"
   date_start = "2019-11-01"
   date_end = ""
   description = ""
-  
+```
+
+```toml
 [[item]]
   organization = "Machine Learning Study Group, University of Pittsburgh"
   organization_url = ""
@@ -47,5 +52,6 @@ date_format = "Jan 2006"
   date_start = "2019-03-01"
   date_end = ""
   description = ""
+```
 
 +++
