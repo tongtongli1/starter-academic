@@ -1,7 +1,6 @@
 ---
 title: Teaching
-#layout: docs  # Do not modify.
-type: docs  # Do not modify.
+layout: docs  # Do not modify.
 
 # Optional header image (relative to `static/media/` folder).
 header:
