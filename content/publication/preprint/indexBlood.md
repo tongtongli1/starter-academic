@@ -33,7 +33,7 @@ abstract: In this paper, we focus on investigating the influence on hydrodynamic
 links:
 # - name: Custom Link
 #  url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/abs/2010.14072
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
