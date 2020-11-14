@@ -32,7 +32,7 @@ abstract: In this paper we present and analyze a fully-mixed formulation for the
 links:
 # - name: Custom Link
 #  url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/abs/2011.01396
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
