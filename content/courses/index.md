@@ -8,9 +8,9 @@ header:
   image: ""
 ---
 ## Current courses
-* Math 0240, Fall 2020 **Analytic Geometry and Calculus 3 (recitation)**
 
 ## Previous courses
+* Math 0240, Fall 2020 **Analytic Geometry and Calculus 3 (recitation)**
 * Math 0290, Summer 2020 **Applied Differential Equations (lecture)**
 * Math 0220, Spring 2020 **Analytic Geometry and Calculus 1 (recitation)**
 * Math 0230, Fall 2019 **Analytic Geometry and Calculus 2 (recitation)**
